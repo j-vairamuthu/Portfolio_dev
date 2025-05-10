@@ -1,0 +1,32 @@
+.projects {
+    padding: 2rem 0;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .project-card {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  .project-card h3 {
+    margin-top: 0;
+  }
+  
+  .project-links a {
+    margin: 0 0.5rem;
+    color: #007acc;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
